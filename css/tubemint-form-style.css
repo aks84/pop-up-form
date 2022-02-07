@@ -1,0 +1,25 @@
+div.tubemint-popup-form{
+	width: 400px;
+	height: auto;
+	border: 2px solid gray;
+	padding: 15px;
+	display: none;
+	position: fixed;
+	background-color: white;
+	bottom: 0;
+	right: 0;
+	z-index: 100;
+
+
+}
+
+button#x-form{
+	float: right;
+	cursor: wait;
+	margin-bottom: 4px;
+	
+}
+
+div.tubemint-form-banner{
+	padding: 10px 0px;
+}
